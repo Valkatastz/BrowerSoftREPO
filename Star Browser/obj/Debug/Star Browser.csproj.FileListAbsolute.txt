@@ -1,0 +1,43 @@
+D:\Software\Star Browser\Star_Browser\Star Browser\bin\Debug\Star Browser.exe.config
+D:\Software\Star Browser\Star_Browser\Star Browser\bin\Debug\Star Browser.exe
+D:\Software\Star Browser\Star_Browser\Star Browser\bin\Debug\Star Browser.pdb
+D:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.csprojResolveAssemblyReference.cache
+D:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star_Browser.frmStarBrowser.resources
+D:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star_Browser.Properties.Resources.resources
+D:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.csproj.GenerateResource.Cache
+D:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.exe
+D:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.pdb
+D:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Interop.SpeechLib.dll
+D:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.csproj.ResolveComReference.cache
+E:\Software\Star Browser\Star_Browser\Star Browser\bin\Debug\Star Browser.exe.config
+E:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Interop.SpeechLib.dll
+E:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.csproj.ResolveComReference.cache
+E:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.exe
+E:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.pdb
+E:\Software\Star Browser\Star_Browser\Star Browser\bin\Debug\Star Browser.exe
+E:\Software\Star Browser\Star_Browser\Star Browser\bin\Debug\Star Browser.pdb
+E:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.csprojResolveAssemblyReference.cache
+E:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star_Browser.frmStarBrowser.resources
+E:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star_Browser.Properties.Resources.resources
+E:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.csproj.GenerateResource.Cache
+G:\Software\Star Browser\Star_Browser\Star Browser\bin\Debug\Star Browser.exe.config
+G:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Interop.SpeechLib.dll
+G:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.csproj.ResolveComReference.cache
+G:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.exe
+G:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.pdb
+G:\Software\Star Browser\Star_Browser\Star Browser\bin\Debug\Star Browser.exe
+G:\Software\Star Browser\Star_Browser\Star Browser\bin\Debug\Star Browser.pdb
+G:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.csprojResolveAssemblyReference.cache
+G:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star_Browser.frmStarBrowser.resources
+G:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star_Browser.Properties.Resources.resources
+G:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.csproj.GenerateResource.Cache
+F:\Software\Star Browser\Star_Browser\Star Browser\bin\Debug\Star Browser.exe.config
+F:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Interop.SpeechLib.dll
+F:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.csproj.ResolveComReference.cache
+F:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.exe
+F:\Software\Star Browser\Star_Browser\Star Browser\obj\Debug\Star Browser.pdb
+C:\SelfMadeProjects\Star_Browser\Star Browser\bin\Debug\Star Browser.exe.config
+C:\SelfMadeProjects\Star_Browser\Star Browser\obj\Debug\Interop.SpeechLib.dll
+C:\SelfMadeProjects\Star_Browser\Star Browser\obj\Debug\Star Browser.csproj.ResolveComReference.cache
+C:\SelfMadeProjects\Star_Browser\Star Browser\obj\Debug\Star Browser.exe
+C:\SelfMadeProjects\Star_Browser\Star Browser\obj\Debug\Star Browser.pdb
